@@ -1,0 +1,81 @@
+.container{
+
+left: 450px;
+top: 50px;
+width: 400px;
+height: 400px;
+outline: red 1px solid;
+position: fixed;
+
+}
+
+h1{
+	
+	text-align: center;
+	
+}
+
+
+h2{
+	position: relative;
+	text-align: center;
+	top: -20px;
+	
+}
+
+
+
+
+.question{
+
+left: 450px;
+top: 150px;
+width: 400px;
+height: 30px;
+outline: green 1px solid;
+position: fixed;
+}
+
+
+
+
+.choices{
+
+left: 450px;
+top: 180px;
+width: 400px;
+height: 120px;
+outline: blue 1px solid;
+position: fixed;
+}
+
+h1{
+
+	text-align: center;
+}
+
+
+button{
+	position: fixed;
+	top: 315px;
+	left: 475px;
+}
+
+
+
+
+
+.scoreArea{
+
+left: 450px;
+top: 350px;
+width: 400px;
+height: 50px;
+outline: orange 1px solid;
+position: fixed;
+}
+
+h1{
+
+	text-align: center;
+}
